@@ -4,9 +4,16 @@ You can use the [editor on GitHub](https://github.com/RyanL-29/FinalYearProject2
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## We are Group 3!!
+Our project is going to make a LMS called Glossary.
+
 ## Project Introduction
 
 We decided to build a learning management platform that is similar to canvas which is call Glossary. It allows students to upload their homework, join class, download class materials, review grades, etc. For the teacher side, it can allow the teacher to create class, review the homework from the student, etc. From the parents' side, they can review the grades, view class description, view instructor information, etc. Therefore we can see that our project is different from Canvas. First, parents will not have an account to manage their children’s learning progress on Canvas. Second, the target market of our project is secondary schools, not college or university.
+
+##Group Member Biography
+
+##Contact us!
 
 
 ### Markdown
